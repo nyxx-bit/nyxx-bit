@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://twitter.com/nescafesusuu" target="blank"><img src="https://img.shields.io/twitter/follow/nescafesusuu?logo=twitter&style=for-the-badge" alt="nescafesusuu" /></a> </p>
 
-- 🔭 I’m currently working on [Tentang Anak](https://www.instagram.com/tentanganakofficial/)
+- 🔭 I’m currently working in [Tentang Anak](https://www.instagram.com/tentanganakofficial/) as Software Quality Engineer (Manual, Automation)
 
 - 🌱 I’m currently learning **Technologies in SDET, DevOps**
 
