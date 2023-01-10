@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently learning **Technologies in SDET, DevOps**
 
-- 💬 Ask me about **Software Development, Automation, GQL, gRPC, Katalon, Robot**
+- 💬 Ask me about **Software Development, Automation, ML, everything**
 
 - 📫 How to reach me **alkhawarismi989@gmail.com**
 
