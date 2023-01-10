@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently learning **Technologies in SDET, DevOps**
 
-- 💬 Ask me about **Software Development, Automation, Python, R, SQL, NoSQL, PHP, JavaScript, HTML, CSS, Java, Kotlin, Go, MySQL, Redis, Ms. Azure, Flutter, Git, Databases, AWS, Laravel, React.js, C++, C#, PWA, GQL, gRPC, Katalon, Robot**
+- 💬 Ask me about **Software Development, Automation, GQL, gRPC, Katalon, Robot**
 
 - 📫 How to reach me **alkhawarismi989@gmail.com**
 
