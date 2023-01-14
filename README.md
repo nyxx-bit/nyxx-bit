@@ -16,13 +16,10 @@
   /></a>
 </p>
 
-- 🔭 I’m currently working on [Tentang
-Anak](https://www.instagram.com/tentanganakofficial/) - 🌱 I’m currently
-learning **Technologies in SDET, DevOps** - 💬 Ask me about **Software
-Development, Automation, Python, R, SQL, NoSQL, PHP, JavaScript, HTML, CSS,
-Java, Kotlin, Go, MySQL, Redis, Ms. Azure, Flutter, Git, Databases, AWS,
-Laravel, React.js, C++, C#, PWA, GQL, gRPC, Katalon, Robot** - 📫 How to reach
-me **alkhawarismi989@gmail.com**
+- 🔭 I’m currently working on [Tentang Anak](https://www.instagram.com/tentanganakofficial/) 
+- 🌱 I’m currently learning **Technologies in SDET, DevOps** 
+- 💬 Ask me about **Software Development, Automation, ML, anything** 
+- 📫 How to reach me **alkhawarismi989@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -202,6 +199,14 @@ me **alkhawarismi989@gmail.com**
     <img
       src="https://www.vectorlogo.zone/logos/graphql/graphql-icon.svg"
       alt="graphql"
+      width="40"
+      height="40"
+    />
+  </a>
+  <a href="https://grpc.io/" target="_blank" rel="noreferrer">
+    <img
+      src="https://cncf-branding.netlify.app/img/projects/grpc/icon/color/grpc-icon-color.png"
+      alt="grpc"
       width="40"
       height="40"
     />
