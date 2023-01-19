@@ -448,7 +448,7 @@
 <p>
   &nbsp;<img
     align="center"
-    src="https://github-readme-stats.vercel.app/api?username=nyxx-bit&show_icons=true&locale=en"
+    src="https://github-readme-stats.vercel.app/api?username=nyxx-bit&show_icons=true&locale=en&count_private=true"
     alt="nyxx-bit"
   />
 </p>
