@@ -440,7 +440,7 @@
 <p>
   <img
     align="left"
-    src="https://github-readme-stats.vercel.app/api/top-langs?username=nyxx-bit&show_icons=true&locale=en&layout=compact"
+    src="https://github-readme-stats.vercel.app/api/top-langs?username=nyxx-bit&show_icons=true&locale=en&layout=compact&hide=c++"
     alt="nyxx-bit"
   />
 </p>
