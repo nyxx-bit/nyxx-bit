@@ -437,7 +437,7 @@
   </a>
 </p>
 
-<!-- <p>
+<p>
   <img
     align="left"
     src="https://github-readme-stats.vercel.app/api/top-langs?username=nyxx-bit&show_icons=true&locale=en&layout=compact&hide=c++"
@@ -459,4 +459,4 @@
     src="https://github-readme-streak-stats.herokuapp.com/?user=nyxx-bit&"
     alt="nyxx-bit"
   />
-</p> -->
+</p>
