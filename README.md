@@ -16,7 +16,7 @@
   /></a>
 </p>
 
-- 🔭 I’m currently working on [Tentang Anak](https://www.instagram.com/tentanganakofficial/) and [Dans Multi Pro](https://www.linkedin.com/company/pt-dans-multi-pro) 
+- 🔭 I’m currently working on [Dans Multi Pro](https://www.linkedin.com/company/pt-dans-multi-pro) 
 - 🌱 I’m currently learning **Technologies in SDET, DevOps** 
 - 💬 Ask me about **Software Development, Automation, ML, anything** 
 - 📫 How to reach me **alkhawarismi989@gmail.com**
